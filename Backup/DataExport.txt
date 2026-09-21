@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LabourCostPerSquareFoot::MaterialCost::LabourCost::Tax::Total::OrderDate
+1::Reece::CA::25.00::Wood::200::5.15::4.75::1030.00::950.00::495.00::2475.00::09-22-2026
